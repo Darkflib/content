@@ -26,6 +26,24 @@ Ideas for blog or video. Please feel free to comment by raising an issue with id
 * Supervising an SBC
 * github actions vs circle ci vs drone
 * Artifactory OSS vs harbor
+* Firewall piercing
+  * Ssh
+  * Socat
+  * Iodine
+  * Udptunnel
+  * Udp2raw
+  * Icmp tunneling
+  * Obfs4/scramblesuit
+  * Proxychains-ng
+  * V2ray
+* Tor and i2p
+  * Hidden services
+  * Tunneling
+  * Redsocks
+* Tails
+* Qubes
+* 
+
 
 
  
