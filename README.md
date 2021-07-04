@@ -17,7 +17,7 @@ Ideas for blog or video. Please feel free to comment by raising an issue with id
   * dmesg
   * Bash
   * Docker
-* Hacks
+* Geek Hacks
 * Digital logic analysers
 * Digital oscilloscopes
 * Digital signal generator
@@ -40,9 +40,15 @@ Ideas for blog or video. Please feel free to comment by raising an issue with id
   * Hidden services
   * Tunneling
   * Redsocks
+  * Control sockets
 * Tails
 * Qubes
-* 
+* Jitsi meet
+* Ejabberd vs prosody
+* Bots
+* Linux routing tables, rules and iptables
+* Enhancing Openwrt and glinet
+
 
 
 
