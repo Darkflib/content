@@ -48,6 +48,20 @@ Ideas for blog or video. Please feel free to comment by raising an issue with vo
 * Bots
 * Linux routing tables, rules and iptables
 * Enhancing Openwrt and glinet
+* Mandatory access control (mac)
+* apparmor
+* SELinux
+* SSL
+* Dnscontrol
+* Diskless pi
+* Iscsi / ataoe / nbd / ceph
+* Minio
+* Rclone
+* Ecryptfs
+* USB HID hacking
+* Bluetooth HID hacking
+* Geek pranks
+* Sslstrip
 
 
 
