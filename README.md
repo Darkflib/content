@@ -24,7 +24,9 @@ Ideas for blog or video. Please feel free to comment by raising an issue with id
 * Securing data
 * Psu hacking
 * Supervising an SBC
-* 
+* github actions vs circle ci vs drone
+* Artifactory OSS vs harbor
+
 
  
 
