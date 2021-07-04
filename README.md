@@ -1,6 +1,6 @@
 # Content Ideas
 
-Ideas for blog or video. Please feel free to comment by raising an issue with ideas or other insight.
+Ideas for blog or video. Please feel free to comment by raising an issue with votes, ideas or other insight.
 
 
 * Network Manager
@@ -48,6 +48,12 @@ Ideas for blog or video. Please feel free to comment by raising an issue with id
 * Bots
 * Linux routing tables, rules and iptables
 * Enhancing Openwrt and glinet
+
+
+
+# Competitions / Challenges
+
+# Giveaways
 
 
 
