@@ -13,7 +13,9 @@ Ideas for blog or video. Please feel free to comment by raising an issue with id
 * Useful snippets - regular section
 * Hacks
 * Digital logic analysers
-* Digita 
-* 
+* Digital oscilloscopes
+* Digital signal generator
+* Securing data
+
  
 
