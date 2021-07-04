@@ -11,6 +11,12 @@ Ideas for blog or video. Please feel free to comment by raising an issue with id
 * Homelab
 * Wireguard
 * Useful snippets - regular section
+  * systemctl
+    * Targets
+  * sudo
+  * dmesg
+  * Bash
+  * Docker
 * Hacks
 * Digital logic analysers
 * Digital oscilloscopes
