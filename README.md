@@ -22,6 +22,9 @@ Ideas for blog or video. Please feel free to comment by raising an issue with id
 * Digital oscilloscopes
 * Digital signal generator
 * Securing data
+* Psu hacking
+* Supervising an SBC
+* 
 
  
 
