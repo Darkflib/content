@@ -6,9 +6,18 @@ Ideas for blog or video. Please feel free to comment by raising an issue with vo
 * Network Manager
 * Luks + clevis + tang - next level disk security
 * what's in your kit bag?
+  * Commute
+  * Geek events
 * Workspace setup
+  * Work
+  * Home
+  * Mobile
 * Data storage
+  * Backups
+  * Cloud
 * Homelab
+  * Clusters
+  * Network
 * Wireguard
 * Useful snippets - regular section
   * systemctl
@@ -22,10 +31,14 @@ Ideas for blog or video. Please feel free to comment by raising an issue with vo
 * Digital oscilloscopes
 * Digital signal generator
 * Securing data
+  * In transit
+  * At rest
+  * Principles
+    * QC resistance
 * Psu hacking
 * Supervising an SBC
-* github actions vs circle ci vs drone
-* Artifactory OSS vs harbor
+* github actions vs circle ci vs drone.io
+* Artifactory OSS vs harbor vs docker registry
 * Firewall piercing
   * Ssh
   * Socat
@@ -39,10 +52,16 @@ Ideas for blog or video. Please feel free to comment by raising an issue with vo
 * Tor and i2p
   * Hidden services
   * Tunneling
+    * onioncat
+    * socat tun
   * Redsocks
   * Control sockets
+  * Bridges
 * Tails
 * Qubes
+* Distributed systems
+  * Paxos vs Raft
+  * serf
 * Jitsi meet
 * Ejabberd vs prosody
 * Bots
