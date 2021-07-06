@@ -5,6 +5,7 @@ Ideas for blog or video. Please feel free to comment by raising an issue with vo
 
 * Network Manager
 * Luks + clevis + tang - next level disk security
+* LuksNuke
 * what's in your kit bag?
   * Commute
   * Geek events
